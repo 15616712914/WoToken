@@ -1,0 +1,424 @@
+
+
+
+
+//  localizable.strings
+//  BLKMoney
+//
+//  Created by BuLuKe on 16/11/10.
+//  Copyright © 2016年 BuLuKe. All rights reserved.
+
+
+//简体中文
+
+//全局
+"language" = "言語";
+"error" = "ミスを訪問するので,お客様に連絡してください";
+"timeout" = "要求タイムアウト";
+"back" = "戻る";
+"drop-down"       = "更新を下る";
+"pull"            = "アップロード";
+"release_refresh" = "更新を放つ";
+"being_loaded"    = "ロードされている";
+//tabbar
+"home"   = "トップページ";
+"assets" = "資産";
+"apollo" = "Apollo";
+"my"     = "私の";
+
+//登录
+"yhisequalloginpassword" = "ログインパスワードに一致できない";
+"email_exist" = "郵便箱に登録した";
+"please_check_email" = "メールチェックマークをメールしてください";
+"invalid_email" = "メールアドレスが適法でない";
+"send_mail_failed" = "メール検証コードの送信失敗";
+"yhnewemail" = "新しいメールアドレス";
+
+"yhplaceinputphone" = "携帯電話番号を入力してください";
+"yhchangphonelogin" = "携帯電話のログインに切り替えます";
+"yhchangemaillogin" = "メールアドレス登録";
+
+"yheloginmail"    = "メールを入力してください";
+
+"email"           = "メール";
+"email1"          = "登録メールアドレスを入力してください";
+"login_password"  = "パスワード";
+"login_password1" = "ログインパスワードを入力してください";
+"login"           = "ログイン";
+"login_register"  = "すぐに登録する";
+"forgot_password" = "パスワードを忘れる?";
+"login_success"   = "登録に成功する";
+"multi_language"  = "多言語";
+
+"log_out_success" = "ログアウトの成功を";
+
+//注册
+"yh_to_block_title" = "ブロックの鎖に移る";
+"yhphoneregist"  = "携帯電話の登録";
+"yhemailregist"  = "メールアドレス";
+
+"yhplaceinputyaoqingcode" = "招待コードを入力してください";
+"yhsourpassword"   = "パスワードを再度入力してください";
+
+"register"         = "登録";
+"register_success" = "登録に成功する";
+"agreement"        = "ユーザー合意";
+"agreement1"       = "私は読んで同意した";
+"agreement2"       = "ユーザープロトコル";
+
+//忘记密码
+
+"update_name_succeed" =  "爱称を更新して成功";
+
+"yhemailhasnoset" = "未結合メール";
+
+
+"next"              = "次の段階";
+"retrieve_password" = "パスワードを取り戻す";
+"send_mailbox"      = "あなたのメールアドレスに関連情報を送っています";
+"i_see"             = "承知しました";
+"code"              = "検証コード";
+"code1"             = "メールアドレスを入力してください";
+"new_password"      = "新しいパスワード";
+"new_password1"     = "新しいログインパスワードを入力して下さい";
+"confirm"           = "確認する";
+"input_code"        = "検証コードを入力してください";
+"input_password"    = "パスワードを入力してください";
+"password_6"        = "パスワードは最小六桁です";
+"confirm_password"  = "パスワードを入力して下さい";
+"password_no"       = "パスワードが一致しない";
+"email_exist" = "郵便ポストはすでに存在している";
+
+//多语言
+"Chinese"      = "簡体中国語";
+"English"      = "英語";
+"save"         = "保存する";
+"save_success" = "成功を保存する";
+//首页
+"yhchongzhitixian" = "チャージ/ティドル";
+"scan"            = "掃除をする";
+"collection_code" = "集金符号";
+"exchange"        = "為替レートを調べる";
+"exchange1"       = "取引";
+"all_assets"      = "総資産";
+"transfer"        = "振替";
+"add_assets"      = "資産を追加する";
+"transfer_record" = "振込記録";
+"recharge_record" = "チャージ/提币";
+"BTC_home"        = " BTCブロック図";
+"ETH_home"        = " ETHブロック図";
+"financial"       = "ICO";
+"financial1"      = "財テク機能が開発中ですのでご期待ください";
+"shopping"        = "商";
+"chess_shop"      = "娯楽";
+"shopping1"       = "商城機能が開発中ですのでご期待ください」";
+"total_assets"    = "総资产= 1种の资产レートの総和";
+"dynamic"         = "動態";
+"recharge_getMoney" = "チャージ/ティドル";
+//资产
+"yhtibishuliang" = "オファー数を入力してください";
+
+"prompt"        = "ヒント";
+"no_assets_add" = "資産なしか、追加するか";
+"no_asset"      = "資産がない";
+"add"           = "追加";
+"cancel"        = "キャンセル";
+"total"         = "総額";
+"balance"       = "残高";
+"rate"          = "為替レート";
+"not_open"      = "まだ開通していない";
+"asset_details" = "資産の詳細";
+
+//Apollo
+"profit_record" = "収益記録";
+"business_record" = "取引記録";
+"home_life" = "生活する";
+"home_everything" = "万事通";
+"home_have_fun" = "娯楽";
+"home_hangqing" = "相場";
+"business_type_income" = "転入";
+"business_type_outcome" = "転出";
+"topup_text" = "提造幣";
+"total_money"="資産価値";
+"total_get_money"="総収益";
+"last_day_money"="きのう利益";
+"fade_in"="転入";
+"fade_out"="転出";
+"business_record"="取引記録";
+"yh_without_money" = "単一資産は1000ドル以上でなければならない";
+"start_succeed" = "成功をあける";
+"invalid_pay_password" = "暗証番号を支払う";
+"start_failed" = "失敗を打ち明ける";
+"self_exchange_succeed" = "両替に成功する";
+"invalid_rate" = "為替レートの失敗を取得してください";
+"invalid_amount" = "無効な両替値です";
+"invalid_password" = "暗号の誤り";
+"add_asset_succeed" = "資産を追加して成功する";
+"self_exchange_failed" = "買い換えに失敗する";
+"stop_succeed" = "成功を閉じる";
+"stop_failed" = "失敗を閉じる";
+"promotion_income_wbd" = "収益を共有する";
+"community_income_wbd" = "コミュニティー収益";
+"robot_income_wbd" = "Apollo収益";
+"send_succeed" = "検証コードは成功を送信する";
+"phone_exists" = "電話番号は既に存在しています";
+"send_failed" = "検証コードはエラーを送信する";
+"set_pay_password_succeed" = "暗証番号の支払いが成功しました";
+"pay_password_six_limit" = "支払カードは6桁に過ぎない";
+"code_invalid" = "コードエラーを検証する";
+"alert_tip_str" = "ヒント";
+"button_text_sure" = "確定";
+"setting_pay_pwd" = "パスワードを支払う";
+"pay_pwd_placeholder" = "暗証番号6ビットを入力してください";
+"pay_pwdcode_placeholder" = "検証コードを入力してください";
+"convert" = "両替";
+"top_up" = "充電";
+"draw_cash" = "ティドル";
+"not_beign_this_type" = "まだ開通していない";
+"please_input" = "自分の選択した資産名を書き写してください";
+"add_assets_placeholder" = "選択した資産名を記入して追加を確認してください";
+"account_total_balance" = "アカウント総資産";
+"get_money_total_balance" = "口座の総収益";
+"get_money" = "収益";
+"yh_top_up_coins" = "提造幣";
+"yh_pay_alet_tip" = "パスワードを入力する";
+"invalid_email" = "無効なメール";
+"email_exist" = "このメールボックスは使用済みです";
+"code_expired_or_wrong_email" = "検証コードが切れたか、メールが正しくない";
+"invalid_code" = "コードエラーを検証する";
+"update_email_succeed" = "郵便ポストが成功する";
+"yh_community" = "私のコミュニティ";
+"yh_copy_succeed" = "コピーに成功する";
+"yh_tips_rate_text" = "両替額の中から2‰を差し押さえることにします";
+"yh_pay_input_placeholder" = "暗証番号を入力してください";
+"yh_pay_amount_str" = "45日内にapolloを閉鎖してサービス料金の5%を受け取る\n45日ぶりに、apolloを閉鎖して、1%のサービス料を受け取る";
+"yh_country_area" = "国の地域";
+"yh_getmoney_type" = "収益型";
+"yh_money_count" = "数";
+"yh_time_str" = "時間";
+"yh_community_totalName" = "コミュニティの業績";
+"sure_pwd_placeholder" = "パスワードを再度入力してください";
+"yh_record_count" = "数";
+"yh_record_type" = "タイプ";
+"yh_money_not_enougt" = "残高不足";
+"yh_robot_running1" = "開かれた";
+"yh_robot_running2" = "開かれていない";
+"yh_apoll_runing1" = "開く";
+"yh_apoll_runing2" = "閉鎖";
+"yh_hasnot_setpassword" = "あなたはまだパスワードを支払っていない";
+"Apollo_everyday_money" = "Apollo毎日の収益";
+"yh_please_qidai" = "どうぞご期待ください";
+"yh_getmoney_type1" = "両替";
+"yh_getmoney_type2" = "転入";
+"yh_getmoney_type3" = "転出";
+"yh_choose_money" = "資産を選択する";
+"yh_add_assetisnil" = "あなたはまだ両替資産を追加していない";
+"robot_running" = "ロボットが動く時には出られません";
+"robot_withdraw_succeed" = "成功を収める";
+"robot_topup_succeed" = "成功に転じる";
+"wrong_account_or_wrong_password" = "アカウントや暗証番号が間違っています";
+"yh_tip_level" = "格付け";
+
+
+//我的
+"yhchangemail" = "郵便ポストを修正する";
+"yhchangeloginPassword" = "ログインパスワードを改正する";
+"yhforgetpaypassword" = "暗号の支払いを忘れる";
+"yhcommunityaccount" = "アカウント";
+"yhcommunitypeoples" = "コミュニティメンバー";
+"yhmyyaoqingcode"   = "私の招待番号";
+"yhcentermymessage"   = "私のニュース";
+
+"yhcentertitle"       = "私の";
+"yhyaoqinghaoyou"     = "友だちを招く";
+"yhmyshequ"           = "私のコミュニティ";
+"customer"            = "スマートフォン";
+"address_management"  = "提币アドレス管理";
+"password_management" = "アカウント管理";
+"bound_phone"         = "バインディング携帯電話";
+"latest_news"         = "最新ニュース";
+"about_us"            = "私たちについて";
+"phone"               = "携帯電話番号";
+"home_page"           = "個人のホームページを見る";
+"account_settings"    = "口座設置";
+"robot_topup_failed" = "失敗に転じる";
+"invalid_amount" = "無効な金額";
+"robot_withdraw_failed" = "失敗を転じる";
+"bad_request" = "不当に要求する";
+//账户设置
+"head_portrait"  = "顔";
+"name"           = "愛称";
+"login_account"  = "アカウントを登録する";
+"exit_login"     = "登録をやめる";
+"avatar_success" = "デザインに成功した";
+"photograph"     = "撮影";
+"album"          = "アルバムから選びます。";
+"enter_name"     = "ニックネームをつけてください";
+"language1"      = "簡体中国語";
+"log_out"        = "ログアウトを確定しますか?";
+//客服中心
+"help_center"      = "サポートセンター";
+"feedback_problem" = "フィードバック問題";
+"view_feedback"    = "フィードバックを調べる";
+"even_talk"        = "すぐに話す";
+//密码管理
+"Reset_password"      = "ログインパスワードをリセットする";
+"payment_password"    = "パスワードを支払う";
+"payment_password1"   = "暗号の支払いをする";
+"forget_pay_password" = "暗号の支払いを忘れる";
+//重登录密码
+"original_password"  = "元の暗号";
+"original_password1" = "入力元ログインパスワードを入力してください";
+"confirm_password1"  = "新しいログインパスワードを確認して下さい";
+
+//设置支付密码
+"phone_exist" = "携帯番号は既に登録しています";
+"yhplaceselectarea" = "地域を選択してください";
+"phone_code"    = "メール・検証コード";
+"obtain"        = "検証符号を取得する";
+"remain"        = "残りの";
+"get_code"      = "取得した検証コードをお願いします";
+"pay_password"  = "パスワードを支払う";
+"pay_password1" = "パスワードを入力する";
+"binding"       = "据え置き";
+"binding_no"    = "携帯電話番号なしで、バインディングしたかどうか";
+//重置支付密码
+"old_pay"     = "入力元にパスワードを支払います";
+"new_pay"     = "パスワードを入力します";
+"confirm_pay" = "新たにパスワードを支払うことを確認する";
+//忘记支付密码
+"password_login"  = "パスワードを登録する";
+"password_pay"    = "パスワードを支払う";
+"password_login1" = "ログインパスワードを入力する";
+"password_pay1"   = "パスワードを入力します";
+//验证码
+"code_success"   = "検証コードは成功を送信する";
+//绑定手机
+"phone"         = "携帯電話番号";
+"enter phone"   = "携帯電話番号を入力してください";
+"immediate"     = "直ちに結び付け";
+"phone success" = "成功した携帯電話";
+"phone yes"     = "正しい携帯番号を入力してください";
+//更换手机号
+"new phone"       = "新携帯電話番号";
+"enter new phone" = "新しい携帯番号を入力する";
+//最新消息
+"delete"          = "删除";
+"message_details" = "ニュースの詳細";
+
+//关于我们
+"content" = "Blockchain Wallet is a digital assets wallet developed by Blockchain Technology CO., LTD. The mission of Blockchain Wallet is to bring digital assets into people's everyday life. We want people to use their digital assets to buy clothes on the malls, to order an reservation in the restaurant, or even pay their house rent. Because we believe that the application in real life is the key of digital assets and blockchain technology.";
+"content1" = "We provide unified payment API/SDK, any third parties adopt our payment methods, allowing their customers to pay with digital assets. Payment/transaction can be finished in less than 1 second. Being fast is the key of applying digital assets in everyday life.";
+"copyright" = "ブロックチェーン技術有限会社の著作権所有";
+"yh_please_check_info_enough" = "情報が完全であるかどうかチェックしなさい";
+
+
+//转账
+"go_wallet"     = "全てのカードに振込ます";
+"go_block"      = "ブロックの鎖に移る";
+"go_bank"       = "銀行カードに移る";
+"recent_record" = "最近振込記録";
+"go_bank1"      = "この机能が开発されておりますのでご期待ください";
+//转到钱包
+"yhcurrentleftmoneyless" = "現在残高不足";
+"yhduihuantitle"   = "両替";
+"yhbinzhongtitle"  = "为替";
+"yhplaceinputpaypassword" = "暗証番号を入力してください";
+"yhplaceinputincomcount" = "数量に入力して下さい";
+"yhplaceinputincommoney"  = "入金金額を入力して下さい";
+"yhzhehecount"  = "折り合い";
+"other_account"    = "相手の口座";
+"other_account1"   = "相手のアカウントを入力してください";
+"acount_not"       = "口座には資産がない";
+"asset_type"       = "資産のタイプを選択する";
+"transfer_amount"  = "振替金額";
+"remark"           = "備注を加える";
+"confirm_transfer" = "振込を確認する";
+"available"        = "利用可能額";
+"asset_type1"      = "資産タイプ";
+"pay_set_not"      = "暗証番号の支払いはまだできていない";
+"setting"          = "設置";
+//安全支付
+"safe_pay" = "安全支払い";
+"payment"  = "支払先";
+"finish"   = "完成する";
+//转到区块链地址
+"yhzhuandaoqukuailiantips" = "提币手数料は最低でも$3,最高は1册ごとに货币资产の2‰であり,wbdで引き取る。";
+"yhzhuanzhangshouxufei" = "振込手数料";
+"yhzhichanzonge" = "資産総額";
+"asset_address"  = "この資産タイプはまだアドレスを追加していない";
+"asset_type1"    = "資産タイプを選んでください";
+"asset type"     = "資産タイプ";
+"block_address"  = "ブロックチェーン";
+"block_address1" = "タイプアドレスを選んでください";
+"number"         = "数";
+"enter_number"   = "テナント数を入力する。";
+//添加资产
+"choose_asset" = "追加の資産を選択する";
+"add"          = "添加";
+"phone_not"    = "未結合携帯電話";
+//资产详情
+"recharge_address" = "充値アドレス」";
+"copy"             = "コピー";
+"copy_address"     = "充値アドレスをコピーする";
+"present_address"  = "ティドルアドレス";
+//提币地址
+"add_address"  = "金貨を追加します";
+"address_not"  = "未提出の住所、添付していますか";
+"withdraw_not" = "あなたはまだ未提出のアドレスを追加していませんか?";
+//添加提币地址
+"enter_address" = "お名前を入力してください";
+//转账记录
+"month"   = "月";
+"record1" = "あなたはまだ振り込み記録を持っていません";
+//充值提币记录
+"record2" = "あなたはまだその記録を満たしていない";
+
+//提币详情
+"address_details"  = "硬貨の詳細";
+"asset_variety"    = "資産‐けい";
+"present_quantity" = "おドルの数";
+"Miners' fees"     = "鉱夫費を受け取る";
+"current_state"    = "現在の状態";
+"trading_time"     = "取引時間";
+"cansel_withdraw"  = "今回引き出しを取り消す";
+"not_data"         = "データが入っていない";
+//解除绑定
+"remove" = "バインディングを解除する";
+"tail_number" = " [オピニオン]ティマネーアドレスの末尾に触れる";
+//收款码
+"code_not"     = "口座は資産を開設しておらず、受信機を生成することができない";
+"payment_code" = "財布は二次元コードで私に支払いをした";
+//扫一扫
+"scan_result" = "スキャン結果";
+"albums_not" = "アクセス・アルバムの権限を開いていない";
+"settings_photo" = "设备はアクセスをサポートしないので、セット->写真に设置してください!";
+"not_code" = "この写真は二次元コードは含まれていない!";
+"scan_box" = " 2つの画像をブロック内に配置することができる";
+//付款
+"payment1"        = "支払い";
+"payment_amount"  = "支払い金額";
+"payment_amount1" = "支払い金額を入力してください";
+"payment_assets"  = "支払い資産";
+//webview
+"view_type" = "取引所の資産タイプを調べる";
+
+"close"     = "閉鎖";
+"last_page" = "ページ数";
+"get_money_record" = "おつり/振込";
+"yh_drawcash_assetisnil" = "あなたはまだ未提出のアドレスを作っていません";
+"yh_not_setting" = "未設定";
+"update_password_succeed" = "ログインパスワードの修正に成功しました。";
+"update_pay_password_succeed" = "暗号化の成功を修正する";
+"send_succeed" = "検証コードの送信に成功した";
+"reset_pay_password_succeed" = "暗号化の成功を修正する";
+"apply_processing" = "あなたの申請は提出しており、処理中です";
+"yh_apoclosed" = "（開かれていない）";
+"mailbox_login" = "メールアドレス登録";
+"transfer_succeed" = "振込成功";
+"cannot_transfer_to_self" = "送金をしてはいけません";
+"balance_insufficient" = "残高不足";
+"send_over_times" = "24时间以内に10回発送したので、明日试してください";
+"yhpassword_pay" = "パスワードを入力する";
+"Japan"        = "日文";
+"delete_succeed" = "埋め立て成功";

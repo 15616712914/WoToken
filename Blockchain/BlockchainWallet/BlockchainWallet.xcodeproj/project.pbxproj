@@ -1,0 +1,537 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AC4B1D631EAE058C00D3B8F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4B1D621EAE058C00D3B8F4 /* AppDelegate.swift */; };
+		AC4B1D651EAE058C00D3B8F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4B1D641EAE058C00D3B8F4 /* ViewController.swift */; };
+		AC4B1D681EAE058C00D3B8F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC4B1D661EAE058C00D3B8F4 /* Main.storyboard */; };
+		AC4B1D6A1EAE058C00D3B8F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC4B1D691EAE058C00D3B8F4 /* Assets.xcassets */; };
+		AC4B1D6D1EAE058C00D3B8F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC4B1D6B1EAE058C00D3B8F4 /* LaunchScreen.storyboard */; };
+		AC4B1D781EAE058C00D3B8F4 /* BlockchainWalletTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4B1D771EAE058C00D3B8F4 /* BlockchainWalletTests.swift */; };
+		AC4B1D831EAE058C00D3B8F4 /* BlockchainWalletUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4B1D821EAE058C00D3B8F4 /* BlockchainWalletUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AC4B1D741EAE058C00D3B8F4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AC4B1D571EAE058C00D3B8F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AC4B1D5E1EAE058C00D3B8F4;
+			remoteInfo = BlockchainWallet;
+		};
+		AC4B1D7F1EAE058C00D3B8F4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AC4B1D571EAE058C00D3B8F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AC4B1D5E1EAE058C00D3B8F4;
+			remoteInfo = BlockchainWallet;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AC4B1D5F1EAE058C00D3B8F4 /* BlockchainWallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlockchainWallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC4B1D621EAE058C00D3B8F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AC4B1D641EAE058C00D3B8F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AC4B1D671EAE058C00D3B8F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AC4B1D691EAE058C00D3B8F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AC4B1D6C1EAE058C00D3B8F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AC4B1D6E1EAE058C00D3B8F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC4B1D731EAE058C00D3B8F4 /* BlockchainWalletTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlockchainWalletTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC4B1D771EAE058C00D3B8F4 /* BlockchainWalletTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlockchainWalletTests.swift; sourceTree = "<group>"; };
+		AC4B1D791EAE058C00D3B8F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC4B1D7E1EAE058C00D3B8F4 /* BlockchainWalletUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlockchainWalletUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC4B1D821EAE058C00D3B8F4 /* BlockchainWalletUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlockchainWalletUITests.swift; sourceTree = "<group>"; };
+		AC4B1D841EAE058C00D3B8F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AC4B1D5C1EAE058C00D3B8F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC4B1D701EAE058C00D3B8F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC4B1D7B1EAE058C00D3B8F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AC4B1D561EAE058C00D3B8F4 = {
+			isa = PBXGroup;
+			children = (
+				AC4B1D611EAE058C00D3B8F4 /* BlockchainWallet */,
+				AC4B1D761EAE058C00D3B8F4 /* BlockchainWalletTests */,
+				AC4B1D811EAE058C00D3B8F4 /* BlockchainWalletUITests */,
+				AC4B1D601EAE058C00D3B8F4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AC4B1D601EAE058C00D3B8F4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AC4B1D5F1EAE058C00D3B8F4 /* BlockchainWallet.app */,
+				AC4B1D731EAE058C00D3B8F4 /* BlockchainWalletTests.xctest */,
+				AC4B1D7E1EAE058C00D3B8F4 /* BlockchainWalletUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AC4B1D611EAE058C00D3B8F4 /* BlockchainWallet */ = {
+			isa = PBXGroup;
+			children = (
+				AC4B1D621EAE058C00D3B8F4 /* AppDelegate.swift */,
+				AC4B1D641EAE058C00D3B8F4 /* ViewController.swift */,
+				AC4B1D661EAE058C00D3B8F4 /* Main.storyboard */,
+				AC4B1D691EAE058C00D3B8F4 /* Assets.xcassets */,
+				AC4B1D6B1EAE058C00D3B8F4 /* LaunchScreen.storyboard */,
+				AC4B1D6E1EAE058C00D3B8F4 /* Info.plist */,
+			);
+			path = BlockchainWallet;
+			sourceTree = "<group>";
+		};
+		AC4B1D761EAE058C00D3B8F4 /* BlockchainWalletTests */ = {
+			isa = PBXGroup;
+			children = (
+				AC4B1D771EAE058C00D3B8F4 /* BlockchainWalletTests.swift */,
+				AC4B1D791EAE058C00D3B8F4 /* Info.plist */,
+			);
+			path = BlockchainWalletTests;
+			sourceTree = "<group>";
+		};
+		AC4B1D811EAE058C00D3B8F4 /* BlockchainWalletUITests */ = {
+			isa = PBXGroup;
+			children = (
+				AC4B1D821EAE058C00D3B8F4 /* BlockchainWalletUITests.swift */,
+				AC4B1D841EAE058C00D3B8F4 /* Info.plist */,
+			);
+			path = BlockchainWalletUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AC4B1D5E1EAE058C00D3B8F4 /* BlockchainWallet */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AC4B1D871EAE058C00D3B8F4 /* Build configuration list for PBXNativeTarget "BlockchainWallet" */;
+			buildPhases = (
+				AC4B1D5B1EAE058C00D3B8F4 /* Sources */,
+				AC4B1D5C1EAE058C00D3B8F4 /* Frameworks */,
+				AC4B1D5D1EAE058C00D3B8F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BlockchainWallet;
+			productName = BlockchainWallet;
+			productReference = AC4B1D5F1EAE058C00D3B8F4 /* BlockchainWallet.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AC4B1D721EAE058C00D3B8F4 /* BlockchainWalletTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AC4B1D8A1EAE058C00D3B8F4 /* Build configuration list for PBXNativeTarget "BlockchainWalletTests" */;
+			buildPhases = (
+				AC4B1D6F1EAE058C00D3B8F4 /* Sources */,
+				AC4B1D701EAE058C00D3B8F4 /* Frameworks */,
+				AC4B1D711EAE058C00D3B8F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AC4B1D751EAE058C00D3B8F4 /* PBXTargetDependency */,
+			);
+			name = BlockchainWalletTests;
+			productName = BlockchainWalletTests;
+			productReference = AC4B1D731EAE058C00D3B8F4 /* BlockchainWalletTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AC4B1D7D1EAE058C00D3B8F4 /* BlockchainWalletUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AC4B1D8D1EAE058C00D3B8F4 /* Build configuration list for PBXNativeTarget "BlockchainWalletUITests" */;
+			buildPhases = (
+				AC4B1D7A1EAE058C00D3B8F4 /* Sources */,
+				AC4B1D7B1EAE058C00D3B8F4 /* Frameworks */,
+				AC4B1D7C1EAE058C00D3B8F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AC4B1D801EAE058C00D3B8F4 /* PBXTargetDependency */,
+			);
+			name = BlockchainWalletUITests;
+			productName = BlockchainWalletUITests;
+			productReference = AC4B1D7E1EAE058C00D3B8F4 /* BlockchainWalletUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AC4B1D571EAE058C00D3B8F4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Helapu;
+				TargetAttributes = {
+					AC4B1D5E1EAE058C00D3B8F4 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = R88YZ576UP;
+						ProvisioningStyle = Automatic;
+					};
+					AC4B1D721EAE058C00D3B8F4 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = R88YZ576UP;
+						ProvisioningStyle = Automatic;
+						TestTargetID = AC4B1D5E1EAE058C00D3B8F4;
+					};
+					AC4B1D7D1EAE058C00D3B8F4 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = R88YZ576UP;
+						ProvisioningStyle = Automatic;
+						TestTargetID = AC4B1D5E1EAE058C00D3B8F4;
+					};
+				};
+			};
+			buildConfigurationList = AC4B1D5A1EAE058C00D3B8F4 /* Build configuration list for PBXProject "BlockchainWallet" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AC4B1D561EAE058C00D3B8F4;
+			productRefGroup = AC4B1D601EAE058C00D3B8F4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AC4B1D5E1EAE058C00D3B8F4 /* BlockchainWallet */,
+				AC4B1D721EAE058C00D3B8F4 /* BlockchainWalletTests */,
+				AC4B1D7D1EAE058C00D3B8F4 /* BlockchainWalletUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AC4B1D5D1EAE058C00D3B8F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC4B1D6D1EAE058C00D3B8F4 /* LaunchScreen.storyboard in Resources */,
+				AC4B1D6A1EAE058C00D3B8F4 /* Assets.xcassets in Resources */,
+				AC4B1D681EAE058C00D3B8F4 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC4B1D711EAE058C00D3B8F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC4B1D7C1EAE058C00D3B8F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AC4B1D5B1EAE058C00D3B8F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC4B1D651EAE058C00D3B8F4 /* ViewController.swift in Sources */,
+				AC4B1D631EAE058C00D3B8F4 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC4B1D6F1EAE058C00D3B8F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC4B1D781EAE058C00D3B8F4 /* BlockchainWalletTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC4B1D7A1EAE058C00D3B8F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC4B1D831EAE058C00D3B8F4 /* BlockchainWalletUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AC4B1D751EAE058C00D3B8F4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AC4B1D5E1EAE058C00D3B8F4 /* BlockchainWallet */;
+			targetProxy = AC4B1D741EAE058C00D3B8F4 /* PBXContainerItemProxy */;
+		};
+		AC4B1D801EAE058C00D3B8F4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AC4B1D5E1EAE058C00D3B8F4 /* BlockchainWallet */;
+			targetProxy = AC4B1D7F1EAE058C00D3B8F4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		AC4B1D661EAE058C00D3B8F4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AC4B1D671EAE058C00D3B8F4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AC4B1D6B1EAE058C00D3B8F4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AC4B1D6C1EAE058C00D3B8F4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AC4B1D851EAE058C00D3B8F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AC4B1D861EAE058C00D3B8F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AC4B1D881EAE058C00D3B8F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R88YZ576UP;
+				INFOPLIST_FILE = BlockchainWallet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.helapu.BlockchainWallet;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		AC4B1D891EAE058C00D3B8F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R88YZ576UP;
+				INFOPLIST_FILE = BlockchainWallet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.helapu.BlockchainWallet;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		AC4B1D8B1EAE058C00D3B8F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = R88YZ576UP;
+				INFOPLIST_FILE = BlockchainWalletTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.helapu.BlockchainWalletTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BlockchainWallet.app/BlockchainWallet";
+			};
+			name = Debug;
+		};
+		AC4B1D8C1EAE058C00D3B8F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = R88YZ576UP;
+				INFOPLIST_FILE = BlockchainWalletTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.helapu.BlockchainWalletTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BlockchainWallet.app/BlockchainWallet";
+			};
+			name = Release;
+		};
+		AC4B1D8E1EAE058C00D3B8F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = R88YZ576UP;
+				INFOPLIST_FILE = BlockchainWalletUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.helapu.BlockchainWalletUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = BlockchainWallet;
+			};
+			name = Debug;
+		};
+		AC4B1D8F1EAE058C00D3B8F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = R88YZ576UP;
+				INFOPLIST_FILE = BlockchainWalletUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.helapu.BlockchainWalletUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = BlockchainWallet;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AC4B1D5A1EAE058C00D3B8F4 /* Build configuration list for PBXProject "BlockchainWallet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC4B1D851EAE058C00D3B8F4 /* Debug */,
+				AC4B1D861EAE058C00D3B8F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AC4B1D871EAE058C00D3B8F4 /* Build configuration list for PBXNativeTarget "BlockchainWallet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC4B1D881EAE058C00D3B8F4 /* Debug */,
+				AC4B1D891EAE058C00D3B8F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AC4B1D8A1EAE058C00D3B8F4 /* Build configuration list for PBXNativeTarget "BlockchainWalletTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC4B1D8B1EAE058C00D3B8F4 /* Debug */,
+				AC4B1D8C1EAE058C00D3B8F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AC4B1D8D1EAE058C00D3B8F4 /* Build configuration list for PBXNativeTarget "BlockchainWalletUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC4B1D8E1EAE058C00D3B8F4 /* Debug */,
+				AC4B1D8F1EAE058C00D3B8F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AC4B1D571EAE058C00D3B8F4 /* Project object */;
+}

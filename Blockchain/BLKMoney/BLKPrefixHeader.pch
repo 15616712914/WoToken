@@ -1,0 +1,44 @@
+//
+//  BLKPrefixHeader.pch
+//  BLKMoney
+//
+//  Created by BuLuKe on 16/8/8.
+//  Copyright © 2016年 BuLuKe. All rights reserved.
+//
+
+#ifndef BLKPrefixHeader_pch
+#define BLKPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "BLKHeader.h"
+#import "ViewController.h"
+#import "UIView+UIViewEx.h"//相对位置
+#import "QRCodeGenerator.h"//生成二维码的类
+#import "DXLoadingHUD.h"//缓存加载
+#import "UIImageView+WebCache.h"//图片的网络请求
+#import "AFNetworking.h"//第三方网络请求
+#import "NetworkRequest.h"//接口类
+#import "MainNavigationController.h"//导航栏
+#import "FGLanguageTool.h"//语言切换管理类
+#import "UIScrollView+ZSDRefresh.h"//刷新控件
+#import "HttpTool.h"//网络请求的封装
+#import "ConmonsTool.h"//公用的代码
+#import "UINavigationController+FDFullscreenPopGesture.h"
+#import "NSString+Extension.h"
+#import "UIColor+CustomColors.h"
+#import "NSString+MD5.h"
+#import "YHHttpRequestTool.h"//网络请求的封装
+#import <Masonry/Masonry.h>
+#import <MJExtension/MJExtension.h>
+#import <MJRefresh/MJRefresh.h>
+#import <JKViewAnimation/UIView+CustomAlertView.h>
+
+//获取屏幕 宽度、高度
+#define SCREEN_W [UIScreen mainScreen].bounds.size.width
+#define SCREEN_H [UIScreen mainScreen].bounds.size.height
+//使用宏定义16进制颜色值
+#define UIColorFromRGB(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+
+#endif /* BLKPrefixHeader_pch */

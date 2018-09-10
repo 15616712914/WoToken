@@ -1,0 +1,15 @@
+//
+//  YHBusinessRecordVC.h
+//  BLKMoney
+//
+//  Created by song on 2018/8/30.
+//  Copyright © 2018年 BuLuKe. All rights reserved.
+//
+
+#import "ViewController.h"
+
+@interface YHBusinessRecordVC : ViewController
+@property (nonatomic,assign) BOOL isProfitRecord;
+@property (nonatomic,copy) NSString *incomeType;
+@property (nonatomic,copy) NSString *titleName;
+@end

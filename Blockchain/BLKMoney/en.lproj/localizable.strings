@@ -1,0 +1,463 @@
+
+//  localizable.strings
+//  BLKMoney
+//
+//  Created by BuLuKe on 16/11/10.
+//  Copyright © 2016年 BuLuKe. All rights reserved.
+
+
+//English
+
+//全局
+"language"        = "Language";
+"error"           = "Access error, please contact customer service";
+"timeout"         = "Request timeout";
+"back"            = "Back";
+"drop-down"       = "Drop-down";
+"pull"            = "Pull";
+"release_refresh" = "Release refresh";
+"being_loaded"    = "Being loaded";
+//tabbar
+"home"   = "Home";
+"assets" = "Assets";
+"apollo" = "Apollo";
+"my"     = "Me";
+
+//登录
+
+"yhisequalloginpassword" = "Cannot be consistent with login password";
+
+"yhnewemail" = "New mailbox";
+"yhplaceinputphone" = "Please enter your phone number";
+"yhchangphonelogin" = "phone login";
+"yhchangemaillogin" = "Mailbox login";
+
+"yheloginmail"    = "Please input the mailbox.";
+
+
+"email"           = "Email";
+"email1"          = "Enter login mailbox";
+"login_password"  = "Password";
+"login_password1" = "Enter the login password";
+"login"           = "Login";
+"login_register"  = "Immediately register";
+"forgot_password" = "Forget password";
+"login_success"   = "Login success";
+"multi_language"  = "Multi language";
+
+"log_out_success" = "log out success";
+
+//注册
+"yhphoneregist"  = "Mobile registration";
+"yhemailregist"  = "Mailbox registration";
+
+"yhplaceinputyaoqingcode" = "Please input the invitation code";
+"yhsourpassword"   = "Please input the password again";
+
+"register"         = "Register";
+"register_success" = "Login was successful";
+"agreement"        = "User agreement";
+"agreement1"       = "I have read and agreed";
+"agreement2"       = "wallet user agreement";
+
+//忘记密码
+"yhemailhasnoset" = "Unbound mailbox";
+
+"next"              = "Next";
+"retrieve_password" = "Retrieve password";
+"send_mailbox"      = "Send relevant information to your mailbox";
+"i_see"             = "I see";
+"code"              = "Verification";
+"code1"             = "Mailbox verification code";
+"new_password"      = "password";
+"new_password1"     = "New login password";
+"confirm"           = "Confirm";
+"input_code"        = "Input verification code";
+"input_password"    = "Input password";
+"password_6"        = "Password at least six digits";
+"confirm_password"  = "Enter the confirmation password";
+"password_no"       = "Passwords are not consistent";
+
+//多语言
+"Chinese"      = "Simplified Chinese";
+"English"      = "English";
+"save"         = "Save";
+"save_success" = "Save success";
+
+//首页
+"scan"            = "Scan";
+"collection_code" = "Receipt";
+"exchange"        = "Reference rate";
+"exchange1"       = "Trading";
+"all_assets"      = "Total assets";
+"transfer"        = "Transfer";
+"add_assets"      = "Add Assets";
+"transfer_record" = "Transfer history";
+"recharge_record" = "Deposit/Withdraw";
+"BTC_home"        = "BTC Blockchain";
+"ETH_home"        = "ETH Blockchain";
+"financial"       = "ICO";
+"financial1"      = "Financial functions are being developed, please look forward to";
+"shopping"        = "Mall";
+"chess_shop"   = "Entertainment";
+"shopping1"       = "Mall function is being developed, please look forward to";
+"total_assets"    = "Total assets = Sum of the exchange rate of each asset";
+"dynamic"         = "Dynamic";
+
+//资产
+"yhtibishuliang" = "Please input the amount of money to withdraw";
+
+
+"prompt"        = "Prompt";
+"no_assets_add" = "No assets, whether to add";
+"add"           = "Add";
+"cancel"        = "Cancel";
+"total"         = "Total";
+"balance"       = "Balance";
+"rate"          = "Rate";
+"not_open"      = "Not open";
+"asset_details" = "Asset details";
+
+//我的
+"yhchangemail" = "Modify mailbox";
+"yhchangeloginPassword" = "Modify login password";
+"yhforgetpaypassword" = "Forget to pay password";
+
+"yhcommunityaccount" = "Account";
+"yhcommunitypeoples" = "Members";
+"yhmyyaoqingcode"   = "My invite code";
+"yhcentertitle"       = "My";
+"yhcentermymessage"   = "My message";
+"yhyaoqinghaoyou"     = "Invite friends";
+"yhmyshequ"           = "My community";
+
+
+"customer"            = "Intelligent customer service";
+"address_management"  = "Withdraw address";
+"password_management" = "Account management";
+"bound_phone"         = "Bound phone";
+"latest_news"         = "Bulletins";
+"about_us"            = "About us";
+"phone"               = "Phone";
+"home_page"           = "View personal home page";
+"account_settings"    = "Account settings";
+
+
+
+//账户设置
+"head_portrait"  = "Head portrait";
+"name"           = "Nickname";
+"login_account"  = "Login account";
+"exit_login"     = "Log out";
+"avatar_success" = "Avatar replacement success";
+"photograph"     = "Photograph";
+"album"          = "Select from album";
+"enter_name"     = "Please enter the anonymous";
+"language1"      = "English";
+"log_out"        = "Sure you log out?";
+
+//客服中心
+"help_center"      = "Help center";
+"feedback_problem" = "Feedback problem";
+"view_feedback"    = "View feedback";
+"even_talk"        = "Even talk";
+
+//密码管理
+"Reset_password"      = "Reset login password";
+"payment_password"    = "Set payment password";
+"payment_password1"   = "Reset payment password";
+"forget_pay_password" = "Forget to pay the password";
+
+//重置登录密码
+"original_password"   = "Password";
+"original_password1"  = "Original login password";
+"confirm_password1"   = "Confirm new password";
+
+//设置支付密码
+
+"yhplaceselectarea" = "Please select area";
+
+"phone_code"    = "SMS verification code";
+"obtain"        = "Obtain";
+"remain"        = "Remain";
+"get_code"      = "Please get the verification code";
+"pay_password"  = "Payment password";
+"pay_password1" = "Enter the payment password";
+"binding"       = "Binding";
+"binding_no"    = "No phone number has been bound, is bound to";
+
+//重置支付密码
+"old_pay"     = "Original payment password";
+"new_pay"     = "New payment password";
+"confirm_pay" = "Confirm new payment password";
+
+//忘记支付密码
+"password_login"  = "Login password";
+"password_pay"    = "Payment password";
+"password_login1" = "Enter the login password";
+"password_pay1"   = "Enter a new payment password";
+
+//绑定手机
+"phone"         = "Phone number";
+"enter phone"   = "Enter phone number";
+"immediate"     = "Immediate binding";
+"phone success" = "Successfully bound mobile phone";
+"phone yes"     = "Enter the correct phone number";
+
+//更换手机号
+"new phone"       = "New cell phone";
+"enter new phone" = "Enter a new mobile phone";
+
+//最新消息
+"delete"          = "Delete";
+"message_details" = "Message details";
+
+//关于我们
+"content" = "Blockchain Wallet is a digital assets wallet developed by Blockchain Technology CO., LTD. The mission of Blockchain Wallet is to bring digital assets into people's everyday life. We want people to use their digital assets to buy clothes on the malls, to order an reservation in the restaurant, or even pay their house rent. Because we believe that the application in real life is the key of digital assets and blockchain technology.";
+"content1" = "We probide unified payment API/SDK, any third parties adopt our payment methods, allowing their customers to pay with digital assets. Payment/transaction can be finished in less than 1 second. Being fast is the key of applying digital assets in everyday life.";
+"copyright" = "BlockChain Wallet All rights reserved.";
+
+//转账
+"go_wallet"     = "Go to the wallet";
+"go_block"      = "Go to block chain";
+"go_bank"       = "Go to the bank card";
+"recent_record" = "Recent transfer record";
+"go_bank1"      = "The function is being developed, please look forward to";
+
+//转到钱包
+"yhcurrentleftmoneyless" = "Current balance is insufficient";
+"yhduihuantitle"   = "Exchange";
+"yhbinzhongtitle"  = "Currency";
+"yhplaceinputpaypassword" = "Please input the payment password.";
+"yhplaceinputincomcount" = "Please input in quantity.";
+"yhplaceinputincommoney"  = "Please enter the amount transferred";
+
+"yhzhehecount"  = "Price";
+"other_account"    = "Other account";
+"other_account1"   = "Enter the account";
+"acount_not"       = "Account did not open assets";
+"asset_type"       = "Select asset type";
+"transfer_amount"  = "Transfer amount";
+"remark"           = "Add remarks";
+"confirm_transfer" = "Confirm transfer";
+"available"        = "Available Credit";
+"asset_type1"      = "Asset type";
+"pay_set_not"      = "Has not set the payment password, whether set";
+"setting"          = "setting";
+
+//安全支付
+"safe_pay" = "Secure payment";
+"payment"  = "Receiving party";
+"finish"   = "Finish";
+
+//转到区块链地址
+"yhzhuandaoqukuailiantips" = "The minimum handling fee is $3 per unit, which is 2/1000 of the total assets of each coin and is deducted by WBD.";
+"yhzhuanzhangshouxufei" = "transfer charge";
+"yhzhichanzonge" = "Total assets";
+
+"asset_address"  = "Asset type has not been added address";
+"asset_type1"    = "Please select asset type";
+"asset type"     = "Asset type";
+"block_address"  = "Block chain address";
+"block_address1" = "Select block chain address";
+"number"         = "Number";
+"enter_number"   = "Enter the number";
+
+//添加资产
+"choose_asset" = "Option to add an asset";
+"add"          = "Add to";
+"phone_not"    = "Not bound mobile phone";
+"no_asset"     = "No available asset";
+
+//资产详情
+"recharge_address" = "Withdraw address";
+"copy"             = "Copy";
+"copy_address"     = "Copy recharge address";
+"present_address"  = "Withdraw address";
+
+//提现地址
+"add_address"  = "Add address";
+"address_not"  = "Did not add the address, whether to add";
+"withdraw_not" = "You haven't added the address yet.";
+
+//添加提现地址
+"enter_address" = "Enter address";
+
+//转账记录
+"month"   = "Month";
+"record1" = "You don't have a transfer record";
+
+//充值提现记录
+"yhchongzhitixian" = "Recharge/withdraw";
+"record2" = "You don't have a record";
+"email_exist" = "email exist";
+//提现详情
+"address_details"  = "Present particulars";
+"asset_variety"    = "Asset variety";
+"present_quantity" = "Present quantity";
+"Miners' fees"     = "Miners' fees";
+"current_state"    = "Current state";
+"trading_time"     = "Trading time";
+"cansel_withdraw"  = "Withdraw the cash withdrawal";
+"not_data"         = "No data is loaded";
+
+//解除绑定
+"remove"      = "Remove binding";
+"tail_number" = "Release the tail number is";
+
+//收款码
+"code_not"     = "Account did not open assets, can not generate receivables code";
+"payment_code" = "Scan payment code to me";
+
+//扫一扫
+"scan_result" = "Scan results";
+"albums_not" = "Did not open access to photo albums";
+"settings_photo" = "The device does not support access to the album, please set in the privacy settings - > - > photo!";
+"not_code" = "The picture does not contain a two-dimensional code!";
+"scan_box" = "The two-dimensional code image can be placed in the box";
+
+//付款
+"payment1"        = "payment";
+"payment_amount"  = "Payment amount";
+"payment_amount1" = "Enter the payment amount";
+"payment_assets"  = "Payment assets";
+
+//webview
+"view_type" = "View exchange asset type";
+"close"     = "Back";
+"last_page" = "Last page";
+
+
+
+
+
+///Apollo
+
+"profit_record" = "Profit record";
+"business_record" = "Trans record";
+"home_life" = "Life Services";
+"home_everything" = "Mastercard";
+"home_have_fun" = "Entertainment";
+"home_hangqing" = "Market";
+"business_type_income" = "income";
+"business_type_outcome" = "Turn out";
+"topup_text" = "Put forward";
+"total_money"="Total value of assets";
+"total_get_money"="Total income";
+"last_day_money"="Yesterday income";
+"fade_in"="Switch to";
+"fade_out"="Remove";
+"business_record"="Trans record";
+"yh_without_money" = "The amount must be greater than 1000.";
+"start_succeed" = "Open up success";
+"invalid_pay_password" = "Payment password error";
+"start_failed" = "Open failure";
+
+"stop_succeed" = "Close off success";
+"stop_failed" = "Failure to shut down";
+
+"promotion_income_wbd" = "share income";
+"community_income_wbd" = "Community income";
+"robot_income_wbd" = "Apollo income";
+"send_succeed" = "Authentication code sent successfully";
+"phone_exists" = "The phone number already exists.";
+"send_failed" = "Authentication code sent failure";
+
+"set_pay_password_succeed" = "Set the payment password successfully";
+"pay_password_six_limit" = "The payment password can only be 6 digits";
+"code_invalid" = "Verification code error";
+
+"alert_tip_str" = "Prompt";
+"button_text_sure" = "Confirm";
+"setting_pay_pwd" = "Set payment password";
+"pay_pwd_placeholder" = "Please enter the 6 digit payment password";
+"pay_pwdcode_placeholder" = "Please input verification code.";
+"convert" = "Exchange";
+"top_up" = "Recharge";
+"draw_cash" = "Put forward";
+"not_beign_this_type" = "Not opened for the time being";
+"please_input" = "Please copy your chosen asset name";
+"add_assets_placeholder" = "Please copy the selected asset name to confirm the addition";
+"account_total_balance" = "Total Assets";
+"get_money_total_balance" = "Total receipts";
+"get_money" = "Income";
+"yh_country_area" = "Country and Area";
+"Apollo_everyday_money" = "Apollo Daily earnings";
+"yh_pay_alet_tip" = "Input payment password";
+"yh_please_qidai" = "Honorable expectation";
+"yh_community" = "My community";
+"yh_pay_input_placeholder" = "Please input the payment password";
+"yh_pay_amount_str" = "Apollo will be closed within 45 days for 5% service charge. \n45 days later, Apollo will be charged for 1% service charge";
+
+"sure_pwd_placeholder" = "Please enter your password again";
+
+"yh_getmoney_type" = "Income type";
+"yh_money_count" = "Amount of money";
+"yh_time_str" = "time";
+"yh_money_not_enougt" = "Lack of balance";
+"yh_community_totalName" = "Total community performance";
+"yh_record_count" = "Number";
+"yh_record_type" = "type";
+
+"yh_robot_running1" = "turned on";
+"yh_robot_running2" = "turned off";
+"yh_apoll_runing1" = "open";
+"yh_apoll_runing2" = "close";
+"yh_hasnot_setpassword" = " You have not set the payment password yet.";
+"yh_add_assetisnil" = "You have not added convertible assets";
+
+"yh_getmoney_type1" = "Exchange";
+"yh_getmoney_type2" = "Roll in";
+"yh_getmoney_type3" = "Roll out";
+"yh_choose_money" = "Select the asset";
+
+"robot_running" = "The robot cannot rotate out when it is running";
+"robot_withdraw_succeed" = "Successful roll-out";
+"robot_topup_succeed" = "Successful roll-in";
+
+"robot_topup_failed" = "Failure roll-in";
+"invalid_amount" = "Invalid amount";
+"robot_withdraw_failed" = "Failure roll-out";
+"bad_request" = "Bad request";
+"recharge_getMoney" = "Recharge/withdraw";
+
+"self_exchange_succeed" = "Exchange success";
+"invalid_rate" = "Failed to obtain exchange rate, try again";
+"invalid_amount" = "Invalid conversion value";
+
+"self_exchange_failed" = "Exchange failure";
+
+"invalid_email" = "Invalid mailbox";
+"email_exist" = "This mailbox is already in use";
+"code_expired_or_wrong_email" = "The verification code has expired or the mailbox is not correct";
+"invalid_code" = "Verification code error";
+"update_email_succeed" = "Mail changed successfully";
+
+"wrong_account_or_wrong_password" = "Account number or password error";
+"yh_tip_level" = "Rank";
+
+"add_asset_success" = "Add asset success";
+"get_money_record" = "Recharge/withdraw";
+
+"yh_top_up_coins" = "Put forward";
+"yh_tips_rate_text" = "2‰ of the exchange amount will be deducted as the procedure fee";
+"yh_copy_succeed" = "Copy Succeed";
+
+"yh_drawcash_assetisnil" = "You have not set the withdrawal address";
+
+"yh_not_setting" = "Not Set";
+
+"update_password_succeed" = "The login password was changed successfully";
+"update_pay_password_succeed" = "The payment password has been modified successfully";
+"send_succeed"= "The verification code was sent successfully";
+"reset_pay_password_succeed"= "The payment password has been modified successfully";
+"invalid_password" = "Invalid password";
+"yh_to_block_title" = "To ChainBlock";
+
+"yh_please_check_info_enough" = "Please check that the submission information is complete";
+"apply_processing" = "Your application has been submitted and is being processed";
+
+"yh_apoclosed" = "（Closed）";
+"mailbox_login" = "Mailbox login";
+"delete_succeed" = "Unbundling success";
+

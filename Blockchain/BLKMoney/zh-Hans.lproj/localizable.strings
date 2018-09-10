@@ -1,0 +1,480 @@
+/*
+ localizable.strings
+ BLKMoney
+ 
+ Created by BuLuKe on 16/11/10.
+ Copyright © 2016年 BuLuKe. All rights reserved.
+ */
+
+//简体中文
+
+//全局
+"language" = "语言";
+"error" = "访问错误，请联系客服";
+"timeout" = "请求超时";
+"back" = "返回";
+"drop-down"       = "下拉刷新";
+"pull"            = "上拉刷新";
+"release_refresh" = "释放刷新";
+"being_loaded"    = "正在加载";
+
+//tabbar
+"home"   = "首页";
+"assets" = "资产";
+"apollo" = "Apollo";
+"my"     = "我的";
+
+//登录
+
+"yhisequalloginpassword" = "不能与登录密码一致";
+
+"email_exist" = "邮箱已注册";
+"please_check_email" = "请到邮箱查阅邮件验证码";
+"invalid_email" = "邮箱地址不合法";
+"send_mail_failed" = "邮件验证码发送失败";
+"yhnewemail" = "新邮箱";
+
+
+"yhplaceinputphone" = "请输入手机号码";
+"yhchangphonelogin" = "切换为手机登录";
+"yhchangemaillogin" = "邮箱登录";
+
+"yheloginmail"    = "请输入邮箱";
+
+"email"           = "邮箱";
+"email1"          = "请输入登录邮箱";
+"login_password"  = "密码";
+"login_password1" = "请输入登录密码";
+"login"           = "登录";
+"login_register"  = "马上注册";
+"forgot_password" = "忘记密码?";
+"login_success"   = "登录成功";
+"multi_language"  = "多语言";
+
+"log_out_success" = "退出登录成功";
+
+//注册
+"yh_to_block_title" = "转到区块链";
+"yhphoneregist"  = "手机注册";
+"yhemailregist"  = "邮箱注册";
+
+"yhplaceinputyaoqingcode" = "请输入邀请码";
+"yhsourpassword"   = "请再次输入密码";
+
+"register"         = "注册";
+"register_success" = "注册成功";
+"agreement"        = "用户协议";
+"agreement1"       = "我已阅读并同意";
+"agreement2"       = "钱包用户协议";
+
+//忘记密码
+
+"update_name_succeed" =  "更新昵称成功";
+
+"yhemailhasnoset" = "未绑定邮箱";
+
+
+"next"              = "下一步";
+"retrieve_password" = "找回密码";
+"send_mailbox"      = "已发送相关信息到您的邮箱";
+"i_see"             = "我知道了";
+"code"              = "验证码";
+"code1"             = "请输入邮箱验证码";
+"new_password"      = "新密码";
+"new_password1"     = "请输入新登录密码";
+"confirm"           = "确认";
+"input_code"        = "请输入验证码";
+"input_password"    = "请输入密码";
+"password_6"        = "密码最少六位数";
+"confirm_password"  = "请输入确认密码";
+"password_no"       = "密码不一致";
+
+"email_exist" = "邮箱已存在";
+
+
+//多语言
+"Chinese"      = "简体中文";
+"English"      = "英文";
+"Japan"        = "日文";
+"save"         = "保存";
+"save_success" = "保存成功";
+
+//首页
+"yhchongzhitixian" = "充值/提币";
+"scan"            = "扫一扫";
+"collection_code" = "收款码";
+"exchange"        = "查汇率";
+"exchange1"       = "交易";
+"all_assets"      = "总资产";
+"transfer"        = "转账";
+"add_assets"      = "添加资产";
+"transfer_record" = "转账记录";
+"recharge_record" = "充值/提币记录";
+"BTC_home"        = "BTC区块浏览";
+"ETH_home"        = "ETH区块浏览";
+"financial"       = "ICO";
+"financial1"      = "理财功能正在开发中，敬请期待";
+"shopping"        = "商城";
+"chess_shop"      = "娱乐";
+"shopping1"       = "商城功能正在开发中，敬请期待";
+"total_assets"    = "总资产＝每一种资产汇率的总和";
+"dynamic"         = "动态";
+"recharge_getMoney" = "充值/提币";
+
+//资产
+
+"yhtibishuliang" = "请输入提币数量";
+
+"prompt"        = "提示";
+"no_assets_add" = "尚无资产，是否添加";
+"no_asset"      = "无可用资产";
+"add"           = "添加";
+"cancel"        = "取消";
+"total"         = "总价";
+"balance"       = "余额";
+"rate"          = "汇率";
+"not_open"      = "暂未开通";
+"asset_details" = "资产详情";
+
+
+//Apollo
+"profit_record" = "收益记录";
+"business_record" = "交易记录";
+"home_life" = "生活";
+"home_everything" = "万事通";
+"home_have_fun" = "娱乐";
+"home_hangqing" = "行情";
+"business_type_income" = "转入";
+"business_type_outcome" = "转出";
+"topup_text" = "提币";
+"total_money"="资产总值";
+"total_get_money"="总收益";
+"last_day_money"="昨日收益";
+"fade_in"="转入";
+"fade_out"="转出";
+"business_record"="交易记录";
+"yh_without_money" = "单一资产必须大于1000美元";
+"start_succeed" = "开启成功";
+"invalid_pay_password" = "支付密码错误";
+"start_failed" = "开启失败";
+"self_exchange_succeed" = "兑换成功";
+"invalid_rate" = "获取汇率失败，请重试";
+"invalid_amount" = "无效的兑换值";
+"invalid_password" = "密码错误";
+
+"add_asset_succeed" = "添加资产成功";
+
+"self_exchange_failed" = "兑换失败";
+"stop_succeed" = "关闭成功";
+"stop_failed" = "关闭失败";
+
+"promotion_income_wbd" = "分享收益";
+"community_income_wbd" = "社区收益";
+"robot_income_wbd" = "Apollo收益";
+"send_succeed" = "验证码发送成功";
+"phone_exists" = "电话号码已经存在";
+"send_failed" = "验证码发送失败";
+
+"set_pay_password_succeed" = "设置支付密码成功";
+"pay_password_six_limit" = "支付密码只能为6位数字";
+"code_invalid" = "验证码错误";
+
+"alert_tip_str" = "提示";
+"button_text_sure" = "确定";
+"setting_pay_pwd" = "设置支付密码";
+"pay_pwd_placeholder" = "请输入不少于6位支付密码";
+"pay_pwdcode_placeholder" = "请输入验证码";
+"convert" = "兑换";
+"top_up" = "充值";
+"draw_cash" = "提币";
+"not_beign_this_type" = "暂未开通";
+"please_input" = "请抄写自己选择的资产名";
+"add_assets_placeholder" = "请抄写已选择的资产名以确认添加";
+"account_total_balance" = "账户总资产";
+"get_money_total_balance" = "账户总收益";
+"get_money" = "收益";
+
+"yh_top_up_coins" = "提币";
+"yh_pay_alet_tip" = "输入支付密码";
+"invalid_email" = "无效的邮箱";
+"email_exist" = "该邮箱已使用";
+"code_expired_or_wrong_email" = "验证码已过期或邮箱不正确";
+"invalid_code" = "验证码错误";
+"update_email_succeed" = "邮箱更改成功";
+"yh_community" = "我的社区";
+"yh_copy_succeed" = "复制成功";
+"yh_tips_rate_text" = "将从兑换额中扣去2‰作为手续费用";
+
+"yh_pay_input_placeholder" = "请输入支付密码";
+"yh_pay_amount_str" = "45天内关闭Apollo收取5%服务费\n45天后关闭Apollo收取1%服务费";
+"yh_country_area" = "国家地区";
+"yh_getmoney_type" = "收益类型";
+"yh_money_count" = "数量";
+"yh_time_str" = "时间";
+"yh_community_totalName" = "社区总业绩";
+"sure_pwd_placeholder" = "请再次输入密码";
+"yh_record_count" = "数量";
+"yh_record_type" = "类型";
+
+"yh_money_not_enougt" = "余额不足";
+
+"yh_robot_running1" = "已开启";
+"yh_robot_running2" = "未开启";
+"yh_apoll_runing1" = "开启";
+"yh_apoll_runing2" = "关闭";
+"yh_hasnot_setpassword" = "您还未设置支付密码";
+"Apollo_everyday_money" = "Apollo 每日收益";
+"yh_please_qidai" = "敬请期待";
+"yh_getmoney_type1" = "兑换";
+"yh_getmoney_type2" = "转入";
+"yh_getmoney_type3" = "转出";
+"yh_choose_money" = "选择资产";
+"yh_add_assetisnil" = "您还未添加可兑换资产";
+"robot_running" = "机器人运行时不能转出";
+"robot_withdraw_succeed" = "转出成功";
+"robot_topup_succeed" = "转入成功";
+"wrong_account_or_wrong_password" = "账号或密码错误";
+"yh_tip_level" = "等级";
+
+//我的
+
+"yhchangemail" = "修改邮箱";
+"yhchangeloginPassword" = "修改登录密码";
+"yhforgetpaypassword" = "忘记支付密码";
+
+"yhcommunityaccount" = "账号";
+
+"yhcommunitypeoples" = "社区成员";
+
+"yhmyyaoqingcode"   = "我的邀请码";
+"yhcentermymessage"   = "我的消息";
+"yhcentertitle"       = "我的";
+"yhyaoqinghaoyou"     = "邀请好友";
+"yhmyshequ"           = "我的社区";
+
+"customer"            = "智能客服";
+"address_management"  = "提币地址管理";
+"password_management" = "账号管理";
+"bound_phone"         = "绑定手机";
+"latest_news"         = "最新消息";
+"about_us"            = "关于我们";
+"phone"               = "手机号";
+"home_page"           = "查看个人主页";
+"account_settings"    = "账户设置";
+"robot_topup_failed" = "转入失败";
+"invalid_amount" = "无效的数额";
+"robot_withdraw_failed" = "转出失败";
+"bad_request" = "请求不合法";
+
+
+//账户设置
+"head_portrait"  = "头像";
+"name"           = "昵称";
+"login_account"  = "登录账号";
+"exit_login"     = "退出登录";
+"avatar_success" = "头像设置成功";
+"photograph"     = "拍照";
+"album"          = "从相册中选取";
+"enter_name"     = "请输入昵称";
+"language1"      = "简体中文";
+"log_out"        = "确定退出登录吗?";
+
+//客服中心
+"help_center"      = "帮助中心";
+"feedback_problem" = "反馈问题";
+"view_feedback"    = "查看反馈";
+"even_talk"        = "即刻交谈";
+
+//密码管理
+"Reset_password"      = "重置登录密码";
+"payment_password"    = "设置支付密码";
+"payment_password1"   = "修改支付密码";
+"forget_pay_password" = "忘记支付密码";
+
+//重置登录密码
+"original_password"  = "原密码";
+"original_password1" = "请输入原登录密码";
+"confirm_password1"  = "请确认新登录密码";
+
+//设置支付密码
+"phone_exist" = "手机号码已注册";
+"yhplaceselectarea" = "请选择地区";
+
+"phone_code"    = "短信验证码";
+"obtain"        = "获取验证码";
+"remain"        = "剩下";
+"get_code"      = "请获取的验证码";
+"pay_password"  = "支付密码";
+"pay_password1" = "输入支付密码";
+"binding"       = "绑定";
+"binding_no"    = "尚未绑定手机号，是否绑定";
+
+//重置支付密码
+"old_pay"     = "输入原支付密码";
+"new_pay"     = "输入新支付密码";
+"confirm_pay" = "确认新支付密码";
+
+//忘记支付密码
+"password_login"  = "登录密码";
+"password_pay"    = "支付密码";
+"password_login1" = "输入登录密码";
+"password_pay1"   = "输入新支付密码";
+//验证码
+
+"code_success"   = "验证码发送成功";
+//绑定手机
+"phone"         = "手机号";
+"enter phone"   = "请输入手机号";
+"immediate"     = "立即绑定";
+"phone success" = "成功绑定手机";
+"phone yes"     = "请输入正确手机号";
+
+//更换手机号
+"new phone"       = "新手机号";
+"enter new phone" = "输入新手机号";
+
+//最新消息
+"delete"          = "删除";
+"message_details" = "消息详情";
+
+//关于我们
+"content" = "Blockchain Wallet is a digital assets wallet developed by Blockchain Technology CO., LTD. The mission of Blockchain Wallet is to bring digital assets into people's everyday life. We want people to use their digital assets to buy clothes on the malls, to order an reservation in the restaurant, or even pay their house rent. Because we believe that the application in real life is the key of digital assets and blockchain technology.";
+"content1" = "We provide unified payment API/SDK, any third parties adopt our payment methods, allowing their customers to pay with digital assets. Payment/transaction can be finished in less than 1 second. Being fast is the key of applying digital assets in everyday life.";
+"copyright" = "区块链科技有限公司版权所有";
+
+"yh_please_check_info_enough" = "请检查提交信息是否完整";
+//转账
+"go_wallet"     = "转账到万事达卡";
+"go_block"      = "转到区块链";
+"go_bank"       = "转到银行卡";
+"recent_record" = "最近转账记录";
+"go_bank1"      = "该功能正在开发，敬请期待";
+
+//转到钱包
+"yhcurrentleftmoneyless" = "当前余额不足";
+"yhduihuantitle"   = "兑换";
+"yhbinzhongtitle"  = "币种";
+"yhplaceinputpaypassword" = "请输入支付密码";
+"yhplaceinputincomcount" = "请输入转入数量";
+"yhplaceinputincommoney"  = "请输入转入金额";
+"yhzhehecount"  = "折合";
+"other_account"    = "对方账户";
+"other_account1"   = "请输入对方帐号";
+"acount_not"       = "账户未开通资产";
+"asset_type"       = "选择资产类型";
+
+
+"transfer_amount"  = "转账金额";
+"remark"           = "添加备注";
+"confirm_transfer" = "确认转账";
+"available"        = "可用额度";
+"asset_type1"      = "资产类型";
+"pay_set_not"      = "尚未设置支付密码，是否设置";
+"setting"          = "设置";
+
+//安全支付
+"safe_pay" = "安全支付";
+"payment"  = "收款方";
+"finish"   = "完成";
+
+//转到区块链地址
+"yhzhuandaoqukuailiantips" = "提币手续费最低每笔$3,最高为每笔总提币资产的2‰,以WBD扣取。";
+"yhzhuanzhangshouxufei" = "转账手续费";
+"yhzhichanzonge" = "资产总额";
+
+
+"asset_address"  = "该资产类型尚未添加地址";
+"asset_type1"    = "请选择资产类型";
+"asset type"     = "资产类型";
+"block_address"  = "区块链地址";
+"block_address1" = "请选择类型地址";
+"number"         = "数量";
+"enter_number"   = "输入提币数量";
+
+//添加资产
+"choose_asset" = "选择添加的资产";
+"add"          = "添加";
+"phone_not"    = "尚未绑定手机";
+
+//资产详情
+"recharge_address" = "充值地址";
+"copy"             = "复制";
+"copy_address"     = "复制充值地址";
+"present_address"  = "提币地址";
+
+//提币地址
+"add_address"  = "添加提币地址";
+"address_not"  = "尚无提币地址，是否添加";
+"withdraw_not" = "您还未添加提币地址呢？";
+
+//添加提币地址
+"enter_address" = "请输入提币地址";
+
+//转账记录
+"month"   = "月份";
+"record1" = "您还没有转账记录";
+
+//充值提币记录
+"record2" = "您还没有充值/提币记录";
+
+//提币详情
+"address_details"  = "提币详情";
+"asset_variety"    = "资产品种";
+"present_quantity" = "提币数量";
+"Miners' fees"     = "收取矿工费";
+"current_state"    = "当前状态";
+"trading_time"     = "交易时间";
+"cansel_withdraw"  = "撤销本次提币";
+"not_data"         = "没有数据加载了";
+
+//解除绑定
+"remove" = "解除绑定";
+"tail_number" = "接触提币地址的尾号为";
+
+//收款码
+"code_not"     = "账户未开通资产，无法生成收款码";
+"payment_code" = "钱包扫一扫二维码向我付款";
+
+//扫一扫
+"scan_result" = "扫描结果";
+"albums_not" = "未开启访问相册权限";
+"settings_photo" = "设备不支持访问相册，请在设置->隐私->照片中进行设置!";
+"not_code" = "该图片没有包含一个二维码！";
+"scan_box" = "将二维码图像置于方框内即可";
+
+//付款
+"payment1"        = "付款";
+"payment_amount"  = "请输入数量";
+"payment_amount1" = "请输入付款金额";
+"payment_assets"  = "付款资产";
+
+//webview
+"view_type" = "查看交易所资产类型";
+"close"     = "关闭";
+"last_page" = "上一页";
+
+
+"get_money_record" = "提币/转账";
+
+"yh_drawcash_assetisnil" = "您还未设置提币地址";
+"yh_not_setting" = "未设置";
+
+
+
+"update_password_succeed" = "修改登录密码成功";
+"update_pay_password_succeed" = "修改支付密码成功";
+"send_succeed"= "发送验证码成功";
+"reset_pay_password_succeed"= "修改支付密码成功";
+"apply_processing" = "您的申请已提交，正在处理中";
+
+"yh_apoclosed" = "（未开启）";
+"mailbox_login" = "邮箱登录";
+"transfer_succeed" = "转账成功";
+"cannot_transfer_to_self" = "不能给自己转账";
+"balance_insufficient" = "余额不足";
+"send_over_times" = "24小时内已发送10次，请明日再试";
+"yhpassword_pay" = "输入支付密码";
+"delete_succeed" = "解绑成功";
+
+
+

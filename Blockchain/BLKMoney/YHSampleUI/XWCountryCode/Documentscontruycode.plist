@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<array>
+		<string>中国 +86</string>
+		<string>中国の香港 +852</string>
+		<string>中国澳门 +853</string>
+		<string>
+中国の台湾 +886</string>
+	</array>
+	<key>A</key>
+	<array>
+		<string>アルバニア +355</string>
+		<string>アルジェリア +213</string>
+		<string>アフガニスタン +93</string>
+		<string>アルゼンチン +54</string>
+		<string>アラブ首長国連邦 +971</string>
+		<string>アルバ島 +297</string>
+		<string>オマーン +968</string>
+		<string>アゼルバイジャン+994</string>
+		<string>アッセン +247</string>
+		<string>エジプト +20</string>
+		<string>エチオピア +251</string>
+		<string>アイルランド +353</string>
+		<string>エストニア +372</string>
+		<string>アンドラ +376</string>
+		<string>アンゴラ +244</string>
+		<string>アンギュラ +1264</string>
+		<string>アンティグア・バーブーダ +1268</string>
+		<string>オーストリア +43</string>
+		<string>オランド諸島 +358</string>
+		<string>オーストラリア +61</string>
+		<string>中国マカオ +853</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>バルバドス +1246</string>
+		<string>バハマ +1242</string>
+		<string>パキスタン +92</string>
+		<string>パラグアイ +595</string>
+		<string>パレスチナ +970</string>
+		<string>バーレーン +973</string>
+		<string>パナマ +507</string>
+		<string>ブラジル +55</string>
+		<string>ベラルーシ +375</string>
+		<string>バミューダ +1441</string>
+		<string>ブルガリア +359</string>
+		<string>北マリアナ諸島 +1670</string>
+		<string>ベナン +229</string>
+		<string>ベルギー +32</string>
+		<string>アイスランド +354</string>
+		<string>プエルトリコ +1787</string>
+		<string>ボスニア +387</string>
+		<string>ポーランド +48</string>
+		<string>ボリビア +591</string>
+		<string>ベリーズ +501</string>
+		<string>ボツワナ +267</string>
+		<string>ブータン +975</string>
+		<string>[オピニオン]ブルギラソ +226</string>
+		<string>ブルンジ +257</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>北朝鮮+850</string>
+		<string>赤道ギニア +240</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>デンマーク +45</string>
+		<string>ドイツ +49</string>
+		<string>トーゴ +228</string>
+		<string>ドミニカ共和国 +1809</string>
+		<string>ドミニカ国 +1767</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>ロシア +7</string>
+		<string>エクアドル +593</string>
+		<string>エリトリア +291</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>フランス +33</string>
+		<string>ファロー諸島 +298</string>
+		<string>フランス領ポリネシア +689</string>
+		<string>フランス領ギアナ +594</string>
+		<string>バチカン +379</string>
+		<string>フィリピン +63</string>
+		<string>フィジー +679</string>
+		<string>フィンランド +358</string>
+		<string>お仏様 +238</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>ガンビア +220</string>
+		<string>コンゴ +242</string>
+		<string>コンゴ民主共和国です +243</string>
+		<string>コロンビア +57</string>
+		<string>コスタリカ +506</string>
+		<string>グレナダ +1473</string>
+		<string>グリーンランド島 +299</string>
+		<string>グルジア +995</string>
+		<string>ウリロップ +590</string>
+		<string>グアム +1671</string>
+		<string>ガイアナ +592</string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>ハイチ +509</string>
+		<string>韓国 +82</string>
+		<string>オランダ +31</string>
+		<string>オランダ领アンティル +599</string>
+		<string>ホンジュラス +504</string>
+	</array>
+	<key>J</key>
+	<array>
+		<string>ジブチ +253</string>
+		<string>カナダ +1</string>
+		<string>キルギス +996</string>
+		<string>ギニア +224</string>
+		<string>ガナリー諸島 +3491</string>
+		<string>ガーナ +233</string>
+		<string>ガボン +241</string>
+		<string>カンボジア +855</string>
+		<string>チェコ +420</string>
+	</array>
+	<key>K</key>
+	<array>
+		<string>カメルーン +237</string>
+		<string>カタール +974</string>
+		<string>ケイマン諸島 +1345</string>
+		<string>コモロ +269</string>
+		<string>コソボ +883</string>
+		<string>コートジボワール +225</string>
+		<string>クウェート +965</string>
+		<string>クロアチア +385</string>
+		<string>ケニア +254</string>
+	</array>
+	<key>L</key>
+	<array>
+		<string>ラトビア +371</string>
+		<string>レソト +266</string>
+		<string>ラオス +856</string>
+		<string>レバノン +961</string>
+		<string>リトアニア +370</string>
+		<string>リベリア +231</string>
+		<string>リビア +218</string>
+		<string>リヒテンシュタイン +423</string>
+		<string>ポルニワン島 +262</string>
+		<string>ルクセンブルク +352</string>
+		<string>ルワンダ +250</string>
+		<string>ルーマニア +40</string>
+	</array>
+	<key>M</key>
+	<array>
+		<string>マダガスカル +261</string>
+		<string>モルディブ +960</string>
+		<string>マルタ +356</string>
+		<string>マラウイ +265</string>
+		<string>マレーシア +60</string>
+		<string>マリ +223</string>
+		<string>マケドニア +389</string>
+		<string>マーシャル諸島 +692</string>
+		<string>マルティニク +596</string>
+		<string>マヨト +262</string>
+		<string>モーリシャス +230</string>
+		<string>モーリタニア +222</string>
+		<string>米国 +1</string>
+		<string>アメリカ領サモア +1684</string>
+		<string>アメリカ領ヴァージン諸島 +1340</string>
+		<string>モンゴル +976</string>
+		<string>モンダラ島 +1664</string>
+		<string>モンテネグロ +382</string>
+		<string>バングラデシュ +880</string>
+		<string>ペルー +51</string>
+		<string>ミクロネシア連邦 +691</string>
+		<string>ミャンマー +95</string>
+		<string>モルドバ +373</string>
+		<string>モロッコ +212</string>
+		<string>モロッコ +377</string>
+		<string>モザンビーク +258</string>
+		<string>メキシコ合衆国 +52</string>
+	</array>
+	<key>N</key>
+	<array>
+		<string>ナミビア +264</string>
+		<string>南アフリカ +27</string>
+		<string>cc +977</string>
+		<string>ニカラグア +505</string>
+		<string>ニジェール +227</string>
+		<string>ナイジェリア +234</string>
+		<string>ノルウェー +47</string>
+	</array>
+	<key>P</key>
+	<array>
+		<string>パラオ +680</string>
+		<string>ポルトガル +351</string>
+	</array>
+	<key>Q</key>
+	<array>
+		<string>千里達やトバゴ +1868</string>
+	</array>
+	<key>R</key>
+	<array>
+		<string>日本 +81</string>
+		<string>スウェーデン +46</string>
+		<string>スイス +41</string>
+	</array>
+	<key>S</key>
+	<array>
+		<string>クリスマス島 +61</string>
+		<string>セントルイスとネヴィス +1869</string>
+		<string>セントルシア +1758</string>
+		<string>マリ国 +223</string>
+		<string>サンマリノ +378</string>
+		<string>サンピエールとミクロール諸島 +508</string>
+		<string>セントビンセントおよびグレナディーン +1784</string>
+		<string>スリランカ +94</string>
+		<string>スロバキア +421</string>
+		<string>スロベニア +386</string>
+		<string>スワジランド +268</string>
+		<string>スーダン +249</string>
+		<string>スリナム +597</string>
+		<string>ソマリア +252</string>
+		<string>タジキスタン +992</string>
+		<string>サウジアラビア +966</string>
+		<string>セーシェル +248</string>
+		<string>キプロス +357</string>
+		<string>セネガル +221</string>
+		<string>シエラレオネ +232</string>
+		<string>セルビア +381</string>
+		<string>エルサルバドル +503</string>
+		<string>エルサルバドル +503</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>トンガ +676</string>
+		<string>タンザニア +255</string>
+		<string>タイ +66</string>
+		<string>中国台湾 +886</string>
+		<string>メックスとカイコス諸島 +1649</string>
+		<string>チュニジア +216</string>
+		<string>ツバル +688</string>
+		<string>トルコ +90</string>
+		<string>トルクメニスタン +993</string>
+	</array>
+	<key>W</key>
+	<array>
+		<string>ウズベキスタン +998</string>
+		<string>ウルグアイ +598</string>
+		<string>ウクライナ +380</string>
+		<string>ウガンダ +256</string>
+		<string>ブルネイ +673</string>
+		<string>ベネズエラ +58</string>
+		<string>グアテマラ +502</string>
+	</array>
+	<key>X</key>
+	<array>
+		<string>シリア +963</string>
+		<string>ハンガリー +36</string>
+		<string>ニュージーランド +64</string>
+		<string>ニューカレドニア +687</string>
+		<string>シンガポール +65</string>
+		<string>中国香港 +852</string>
+		<string>ギリシャ +30</string>
+		<string>シサモア +685</string>
+		<string>西サハラ +212</string>
+		<string>スペイン +34</string>
+	</array>
+	<key>Y</key>
+	<array>
+		<string>ベトナム +84</string>
+		<string>ヨルダン +962</string>
+		<string>英領バージン諸島 +1284</string>
+		<string>イギリス +44</string>
+		<string>インドネシア +62</string>
+		<string>インド +91</string>
+		<string>イタリア +39</string>
+		<string>イスラエル +972</string>
+		<string>イラン +98</string>
+		<string>イラク +964</string>
+		<string>イエメン +967</string>
+		<string>アルメニア +374</string>
+		<string>ジャマイカ +1876</string>
+	</array>
+	<key>Z</key>
+	<array>
+		<string>中国 +86</string>
+		<string>中央アフリカ +236</string>
+		<string>チリ +56</string>
+		<string>ジブラルタル +350</string>
+		<string>チャド +235</string>
+		<string>ザンビア +260</string>
+	</array>
+</dict>
+</plist>
