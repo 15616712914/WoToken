@@ -103,6 +103,21 @@
             NSLog(@"++++%@",self.contruyCode);
             NSLog(@"----%@",self.contruyNameLB.text);
             NSLog(@"++++%@",self.contruyCode);
+            NSLog(@"----%@",self.contruyNameLB.text);
+            NSLog(@"++++%@",self.contruyCode);
+            NSLog(@"----%@",self.contruyNameLB.text);
+            NSLog(@"++++%@",self.contruyCode);
+            NSLog(@"----%@",self.contruyNameLB.text);
+            NSLog(@"++++%@",self.contruyCode);
+            NSLog(@"----%@",self.contruyNameLB.text);
+            NSLog(@"++++%@",self.contruyCode);
+            NSLog(@"----%@",self.contruyNameLB.text);
+            NSLog(@"++++%@",self.contruyCode);
+            NSLog(@"----%@",self.contruyNameLB.text);
+            NSLog(@"++++%@",self.contruyCode);
+            NSLog(@"----%@",self.contruyNameLB.text);
+            NSLog(@"++++%@",self.contruyCode);
+            
             
         }else{
 //            NSString *countryName = [[NSUserDefaults standardUserDefaults] objectForKey:YHLoginCountryName];
